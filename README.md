@@ -53,7 +53,7 @@
 
 Откроется редактор.
 
-Удалите весь текст и вставьте код из этого файла → https://github.com/BigKerambit/remove-ads-yandex-games/blob/main/script.js
+Удалите весь текст и вставьте код из этого файла → https://github.com/BigKerambit/remove-ads-yandex-games/blob/main/script.user.js
 
 После этого сохраните его нажав `Ctrl + S`
 
