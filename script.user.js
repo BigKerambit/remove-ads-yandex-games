@@ -5,6 +5,8 @@
 // @match        https://yandex.ru/games/*
 // @run-at       document-start
 // @grant        none
+// @description  автоматически убирать рекламные элементы
+// @license      MIT
 // ==/UserScript==
 
 (() => {
